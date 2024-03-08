@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Questrial&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body,
+html,
+#root,
+.app {
+  height: 100%;
+  background: linear-gradient(rgba(39, 32, 54, 255), rgba(38, 30, 83, 255));
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.shadow-1 {
+  box-shadow: 3px 3px 1px black;
+}
+
+.shadow-1:active {
+  box-shadow: 2px 2px 1px black;
+}
+
+.shadow-2 {
+  box-shadow: inset 0px 0px 4px black;
+}
+
+.shadow-3 {
+  box-shadow: 3px 3px 1px black, inset 0px 0px 4px black;
+}
+
+.shadow-3:active {
+  box-shadow: 2px 2px 1px black, inset 0px 0px 4px black;
+}
+
+.shadow-4 {
+  box-shadow: 1px 1px 4px black;
+}
+
+.logo-shadow {
+  text-shadow: 4px 4px 1px black;
+}
+
+.svg-shadow {
+  filter: drop-shadow(4px 4px 1px black);
+}
+
+.svg-shadow-2 {
+}
+
+.logo-shadow-2 {
+  text-shadow: 0 0 8px rgba(255, 255, 255, 0.8),
+    /* Outer glow */ 0 0 10px rgba(255, 0, 0, 0.6),
+    /* Red glow */ 0 0 12px rgba(0, 255, 0, 0.6),
+    /* Green glow */ 0 0 14px rgba(0, 0, 255, 0.6); /* Blue glow */
+}
+
+.logo-shadow-3 {
+  /* Define the gradient as background */
+  background: linear-gradient(180deg, #24cbff 14.53%, #fc59ff, #ffbd0c);
+
+  /* Make the text transparent to show the background */
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+
+  /* Fallback for browsers that do not support background-clip: text; */
+  display: inline-block;
+}
+
+/* SHARED ELEMENT STYLING */
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #e0e0e0;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
