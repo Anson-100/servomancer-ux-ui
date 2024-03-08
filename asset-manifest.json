@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/servomancer-ux-ui/static/css/main.36c2d3bb.css",
+    "main.js": "/servomancer-ux-ui/static/js/main.6a19ad82.js",
+    "static/media/logo-2.png": "/servomancer-ux-ui/static/media/logo-2.8a91a693b0864c07758b.png",
+    "static/media/logo-1.png": "/servomancer-ux-ui/static/media/logo-1.2fa8542728dce20b9f0f.png",
+    "index.html": "/servomancer-ux-ui/index.html",
+    "main.36c2d3bb.css.map": "/servomancer-ux-ui/static/css/main.36c2d3bb.css.map",
+    "main.6a19ad82.js.map": "/servomancer-ux-ui/static/js/main.6a19ad82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36c2d3bb.css",
+    "static/js/main.6a19ad82.js"
+  ]
+}
