@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/servomancer-ux-ui/static/css/main.3b55f5a6.css",
+    "main.css": "/servomancer-ux-ui/static/css/main.c2b9638e.css",
     "main.js": "/servomancer-ux-ui/static/js/main.ff5ea808.js",
     "static/media/logo-2.png": "/servomancer-ux-ui/static/media/logo-2.8a91a693b0864c07758b.png",
     "static/media/logo-1.png": "/servomancer-ux-ui/static/media/logo-1.2fa8542728dce20b9f0f.png",
     "static/media/logo-3.png": "/servomancer-ux-ui/static/media/logo-3.3bab001356846e01da61.png",
     "static/media/logo-4.png": "/servomancer-ux-ui/static/media/logo-4.87994c3dbda831706169.png",
     "index.html": "/servomancer-ux-ui/index.html",
-    "main.3b55f5a6.css.map": "/servomancer-ux-ui/static/css/main.3b55f5a6.css.map",
+    "main.c2b9638e.css.map": "/servomancer-ux-ui/static/css/main.c2b9638e.css.map",
     "main.ff5ea808.js.map": "/servomancer-ux-ui/static/js/main.ff5ea808.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b55f5a6.css",
+    "static/css/main.c2b9638e.css",
     "static/js/main.ff5ea808.js"
   ]
 }
