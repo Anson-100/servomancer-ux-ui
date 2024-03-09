@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/servomancer-ux-ui/static/css/main.c344b8e4.css",
-    "main.js": "/servomancer-ux-ui/static/js/main.05192481.js",
+    "main.css": "/servomancer-ux-ui/static/css/main.3b55f5a6.css",
+    "main.js": "/servomancer-ux-ui/static/js/main.cd7fd5af.js",
     "static/media/logo-2.png": "/servomancer-ux-ui/static/media/logo-2.8a91a693b0864c07758b.png",
     "static/media/logo-1.png": "/servomancer-ux-ui/static/media/logo-1.2fa8542728dce20b9f0f.png",
     "index.html": "/servomancer-ux-ui/index.html",
-    "main.c344b8e4.css.map": "/servomancer-ux-ui/static/css/main.c344b8e4.css.map",
-    "main.05192481.js.map": "/servomancer-ux-ui/static/js/main.05192481.js.map"
+    "main.3b55f5a6.css.map": "/servomancer-ux-ui/static/css/main.3b55f5a6.css.map",
+    "main.cd7fd5af.js.map": "/servomancer-ux-ui/static/js/main.cd7fd5af.js.map"
   },
   "entrypoints": [
-    "static/css/main.c344b8e4.css",
-    "static/js/main.05192481.js"
+    "static/css/main.3b55f5a6.css",
+    "static/js/main.cd7fd5af.js"
   ]
 }
