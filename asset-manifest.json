@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/servomancer-ux-ui/static/css/main.22a89b29.css",
-    "main.js": "/servomancer-ux-ui/static/js/main.ff5ea808.js",
+    "main.css": "/servomancer-ux-ui/static/css/main.7bfd5e69.css",
+    "main.js": "/servomancer-ux-ui/static/js/main.6c77ae65.js",
     "static/media/logo-2.png": "/servomancer-ux-ui/static/media/logo-2.8a91a693b0864c07758b.png",
     "static/media/logo-1.png": "/servomancer-ux-ui/static/media/logo-1.2fa8542728dce20b9f0f.png",
     "static/media/logo-3.png": "/servomancer-ux-ui/static/media/logo-3.3bab001356846e01da61.png",
     "static/media/logo-4.png": "/servomancer-ux-ui/static/media/logo-4.87994c3dbda831706169.png",
     "index.html": "/servomancer-ux-ui/index.html",
-    "main.22a89b29.css.map": "/servomancer-ux-ui/static/css/main.22a89b29.css.map",
-    "main.ff5ea808.js.map": "/servomancer-ux-ui/static/js/main.ff5ea808.js.map"
+    "main.7bfd5e69.css.map": "/servomancer-ux-ui/static/css/main.7bfd5e69.css.map",
+    "main.6c77ae65.js.map": "/servomancer-ux-ui/static/js/main.6c77ae65.js.map"
   },
   "entrypoints": [
-    "static/css/main.22a89b29.css",
-    "static/js/main.ff5ea808.js"
+    "static/css/main.7bfd5e69.css",
+    "static/js/main.6c77ae65.js"
   ]
 }
